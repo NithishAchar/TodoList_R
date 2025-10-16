@@ -62,11 +62,14 @@ Save tasks in browser localStorage
 Add animations for adding/removing tasks
 
 Include task completion toggle (✔️)
-
+---
 🖋️ Author
 
 ## Nithish Acharya
-📧 Feel free to connect on LinkedIn
- or check out my GitHub profile.
+📧 Feel free to connect on LinkedIn:https://www.linkedin.com/in/nithish-acharya-aa7283290
+ or check out my GitHub profile.:https://github.com/NithishAchar
 
 
+---
+
+Would you like me to **add badges** (React, HTML, CSS, License, GitHub stars, etc.) at the top for a more professional GitHub look?
