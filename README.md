@@ -16,10 +16,10 @@ No external build tools required — runs directly in your browser.
 
 ---
 ## 📁 Project Structure
-listr/
-│
-├── listr.html # Main HTML page – loads React & Babel
-├── listr.css # Custom CSS styles
+-listr/
+-│
+-├── listr.html # Main HTML page – loads React & Babel
+-├── listr.css # Custom CSS styles
 ---
 
 ## 🧠 How to Run the Project
