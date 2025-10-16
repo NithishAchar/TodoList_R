@@ -17,4 +17,66 @@ No external build tools required — runs directly in your browser.
 ---
 
 ## 📁 Project Structure
+listr/
+│
+├── listr.html # Main HTML page – loads React & Babel
+├── listr.css # Custom CSS styles
+└── listr.jsx # React logic for To-Do list
+
+---
+
+## 🧠 How to Run the Project
+
+### ✅ Option 1 – Directly in your browser
+1. Download or clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/listr.git
+Open the listr folder.
+
+Double-click listr.html → It opens directly in your browser.
+
+Done! Start adding your tasks. 🎉
+
+⚙️ Option 2 – Run on a local server
+
+If you prefer using a simple local server:
+
+cd listr
+npx serve .
+
+
+Then visit the URL shown in the terminal (usually http://localhost:3000
+).
+
+🧩 Technologies Used
+
+React 18 (via CDN)
+
+Babel (for JSX support)
+
+HTML5
+
+CSS3 (with gradient styling)
+
+💡 Future Enhancements
+
+Add task editing ✏️
+
+Save tasks in browser localStorage
+
+Add animations for adding/removing tasks
+
+Include task completion toggle (✔️)
+
+🖋️ Author
+
+Nithish Acharya
+📧 Feel free to connect on LinkedIn
+ or check out my GitHub profile.
+
+📜 License
+
+This project is licensed under the MIT License — free to use and modify.
+
+“Listr – stay organized, stay creative.” 
 
