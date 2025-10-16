@@ -21,7 +21,7 @@ listr/
 ├── listr.html # Main HTML page – loads React & Babel
 ├── listr.css # Custom CSS styles
 └── listr.jsx # React logic for To-Do list
-
+---
 ## 🧠 How to Run the Project
 
 ### ✅ Option 1 – Directly in your browser
@@ -30,6 +30,14 @@ listr/
    git clone https://github.com/yourusername/listr.git
 
 └── listr.jsx # React logic for To-Do list
+Open the listr folder.
 
+Double-click listr.html → It opens directly in your browser.
+
+Done! Start adding your tasks. 🎉
+
+⚙️ Option 2 – Run on a local server
+
+If you prefer using a simple local server:
 
 
