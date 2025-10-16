@@ -66,8 +66,9 @@ Include task completion toggle (✔️)
 🖋️ Author
 
 ## Nithish Acharya
-📧 Feel free to connect on LinkedIn:https://www.linkedin.com/in/nithish-acharya-aa7283290
- or check out my GitHub profile.:https://github.com/NithishAchar
+ - 📧 Feel free to connect on LinkedIn:https://www.linkedin.com/in/nithish-acharya-aa7283290
+ or
+ - check out my GitHub profile.:https://github.com/NithishAchar
 
 
 ---
