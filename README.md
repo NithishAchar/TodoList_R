@@ -16,11 +16,11 @@ No external build tools required — runs directly in your browser.
 
 ---
 ## 📁 Project Structure
-listr/
-│
-├── listr.html # Main HTML page – loads React & Babel
-├── listr.css # Custom CSS styles
-└── listr.jsx # React logic for To-Do list
+- listr/
+- │
+- ├── listr.html # Main HTML page – loads React & Babel
+- ├── listr.css # Custom CSS styles
+- └── listr.jsx # React logic for To-Do list
 ---
 ## 🧠 How to Run the Project
 
@@ -57,11 +57,11 @@ CSS3 (with gradient styling)
 
 ## Add task editing ✏️
 
-Save tasks in browser localStorage
+- Save tasks in browser localStorage
 
-Add animations for adding/removing tasks
+- Add animations for adding/removing tasks
 
-Include task completion toggle (✔️)
+- Include task completion toggle (✔️)
 ---
 🖋️ Author
 
