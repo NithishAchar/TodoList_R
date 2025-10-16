@@ -39,5 +39,34 @@ Done! Start adding your tasks. 🎉
 ⚙️ Option 2 – Run on a local server
 
 If you prefer using a simple local server:
+cd listr
+npx serve .
+
+Then visit the URL shown in the terminal (usually http://localhost:3000)
+🧩 Technologies Used
+
+React 18 (via CDN)
+
+Babel (for JSX support)
+
+HTML5
+
+CSS3 (with gradient styling)
+
+💡 Future Enhancements
+
+## Add task editing ✏️
+
+Save tasks in browser localStorage
+
+Add animations for adding/removing tasks
+
+Include task completion toggle (✔️)
+
+🖋️ Author
+
+## Nithish Acharya
+📧 Feel free to connect on LinkedIn
+ or check out my GitHub profile.
 
 
